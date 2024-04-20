@@ -1,8 +1,5 @@
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
- GEMINI-CLONE.
-
  (https://github.com/suannelson123/gemini-clone/blob/main/src/assets/gemini-cclone.PNG)
 
 Currently, two official plugins are available:
